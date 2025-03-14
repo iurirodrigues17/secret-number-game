@@ -2,7 +2,7 @@
 let listaDeNumerosSorteados = []; 
 
 // Define o limite para o número secreto
-let numeroLimite = 100; 
+let numeroLimite = 20; 
 
 // Gera o primeiro número secreto aleatório
 let numeroSecreto = gerarNumeroAleatorio(); 
